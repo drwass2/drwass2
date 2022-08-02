@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drwass2
 - 👀 I’m interested in electronics and using microprocessors, Ie. Arduino etc
 - 🌱 I’m currently learning CAD or some free solid works kind of software for my 3D printer
-- 💞️ I’m looking to collaborate on using CAM as a small machine network to reduce wireing.
+- 💞️ I’m looking to collaborate on using CAN as a small machine network to reduce wireing.
 - 📫 How to reach me email at drwass3@gmail.com   I don't check it every day and skip unknown so put msg in subject line.
